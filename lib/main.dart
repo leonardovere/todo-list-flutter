@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/pages/cadastrar.page.dart';
 import 'package:todo_list/pages/home.page.dart';
 
 void main() {
